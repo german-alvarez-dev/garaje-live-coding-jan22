@@ -7,7 +7,7 @@ Evento disponible [en Youtube](https://www.youtube.com/watch?v=L1TjrOEG-u8)
 ## Requerimientos
 Dispositivo con MongoDB y NodeJS instalados.
 
-## Instalación
+## Setup
 - Crear una base de datos en MongoDB bajo el nombre `garaje-live-conding` con una colección `coasters` donde importar el archivo `coasters.json`
 - Levantar la API (directorio `/server`) mediante el comando `node server.js` o `nodemon server.js`
 - Levantar el cliente de React (directorio `/client`) mediante el comando `npm start`
